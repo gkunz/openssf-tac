@@ -42,7 +42,7 @@ The group continues to be active and is working on several simultaneous projects
 
 * New EDU.SIG co-leads: David A. Wheeler and Justin Cappos. Dave Russo is stepping back due to a change in role.
 * Change of scope for the planned AI course: originally "Securely embedding AI in systems", now "Finding and Fixing Software Vulnerabilities with AI" (aligned with AI/ML WG). Target audience is developers and maintainers of their own projects. Draft content has been compiled, feedback is welcome before the final course will be created.
-* Academic Connections SIG: [SCORED](https://scored.dev/) (academic conference on OSS security) is confirmed for 2026-10-06 as a second track of OpenSSF Community Day in Prague. An "in-cooperation with ACM" agreement has been secured, with paperwork underway so accepted papers can be indexed in the ACM Digital Library. Sponsorships still available (and wanted).
+* Academic Connections SIG: [SCORED](https://scored.dev/) (academic conference on OSS security) is confirmed for 2026-10-06 as a second track of OpenSSF Community Day in Prague. An "in-cooperation with ACM" agreement has been secured, with paperwork underway so accepted papers can be indexed in the ACM Digital Library. Sponsorships still available and wanted.
 * Met with Governing Board representatives on yearly progress / plan; work is on track.
 
 ### Up Next
@@ -58,11 +58,11 @@ The group continues to be active and is working on several simultaneous projects
 
 ### Status Update
 
-* Continued work on the new [Concise Guide for Collaborating with Open Source Projects](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Collaborating-with-Open-Source-Projects.md) (upstream collaboration)
+* Continued work on the new [Concise Guide for Collaborating with Open Source Projects](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Collaborating-with-Open-Source-Projects.md)
 
 Overview of guides:
 
-* Guides under active development:   
+* Guides under active development:
   * [Python Secure Coding Guide](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/Secure-Coding-Guide-for-Python)
   * [Concise guide for upstream collaboration](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Collaborating-with-Open-Source-Projects.md)  
 * Completed Guides (under maintenance)  
@@ -88,7 +88,7 @@ Overview of guides:
 
 * Continued maintenance of both guides (compiler options and compiler annotations)
 * Adding example code for C and C++ compiler annotations
-* Conversation about including a guide 
+* Conversation about including a guide
 
 ### Up next
 
@@ -107,7 +107,7 @@ Overview of guides:
 * Continued development of the Python Secure Coding guide
 * Ongoing collaboration with Python community in Ireland: presented in-person at the Irish Python User Group meetup in Dublin
 * Talk submitted to PyCon Ireland 2026 (Dublin, November)
-* Release blog post "[Secure Coding Guide for Python (pySCG) — First Release](https://openssf.org/blog/2026/05/12/secure-coding-guide-for-python-pyscg-first-release/)" was published
+* Release blog post "[Secure Coding Guide for Python (pySCG) First Release](https://openssf.org/blog/2026/05/12/secure-coding-guide-for-python-pyscg-first-release/)" was published
 
 ### Up Next
 
@@ -156,7 +156,7 @@ Overview of guides:
 * Re-published the SWAG guidelines at a stable URL: [https://w3c-cg.github.io/swag/docs/swag.html](https://w3c-cg.github.io/swag/docs/swag.html); the group has agreed to fold the separate "libraries" guidelines document into the main guide.
 * Contributed a Fetch Metadata guide to MDN ([mdn/content \#43424](https://github.com/mdn/content/pull/43424))
 * Presented "[What are web developers doing about security?](https://openssfcdna2026.sched.com/event/2I45f/what-are-web-developers-doing-about-security-daniel-appelquist-samsung)" at OpenSSF Community Day North America.
-* Held a joint session on package managers (with Andrew Nesbit)
+* Held a joint session on package managers with Andrew Nesbit
 
 ### Up Next
 
@@ -178,13 +178,13 @@ Are you considering applying for any [funding requests](https://github.com/ossf/
 
 ## Previous Updates
 
-* [Q2 2026](https://github.com/ossf/tac/blob/main/TI-reports/2026/2026-Q2-BEST-WG.md)  
-* [Q1 2026](https://github.com/ossf/tac/blob/main/TI-reports/2026/2026-Q1-BEST-WG.md)  
-* [Q4 2025](https://github.com/ossf/tac/blob/main/TI-reports/2025/2025-Q4-BEST-WG.md)  
-* [Q3 2025](https://github.com/ossf/tac/blob/main/TI-reports/2025/2025-Q3-BEST-WG.md)  
-* [Q2 2025](https://github.com/ossf/tac/blob/main/TI-reports/2025/2025-Q2-BEST-WG.md)  
-* [Q4 2024 (== Q1 2025\)](https://github.com/ossf/tac/blob/main/TI-reports/2024/2024-Q4-BEST-WG.md)   
-* [Q3 2024](https://github.com/ossf/tac/blob/main/TI-reports/2024/2024-Q3-BEST-WG.md)  
-* [April 2024](https://docs.google.com/presentation/d/1XjaJa2yxWgRmXhpv0N1_oPG23JPpJY_9zpSOMvqccUM/)  
-* [Dec 2023](https://docs.google.com/presentation/d/1A8Sxm1L3_GcWZqaXepqT1Pj-1sULzUG7fRkCP5tTr24/)  
+* [Q2 2026](https://github.com/ossf/tac/blob/main/TI-reports/2026/2026-Q2-BEST-WG.md)
+* [Q1 2026](https://github.com/ossf/tac/blob/main/TI-reports/2026/2026-Q1-BEST-WG.md)
+* [Q4 2025](https://github.com/ossf/tac/blob/main/TI-reports/2025/2025-Q4-BEST-WG.md)
+* [Q3 2025](https://github.com/ossf/tac/blob/main/TI-reports/2025/2025-Q3-BEST-WG.md)
+* [Q2 2025](https://github.com/ossf/tac/blob/main/TI-reports/2025/2025-Q2-BEST-WG.md)
+* [Q4 2024 (== Q1 2025\)](https://github.com/ossf/tac/blob/main/TI-reports/2024/2024-Q4-BEST-WG.md)
+* [Q3 2024](https://github.com/ossf/tac/blob/main/TI-reports/2024/2024-Q3-BEST-WG.md)
+* [April 2024](https://docs.google.com/presentation/d/1XjaJa2yxWgRmXhpv0N1_oPG23JPpJY_9zpSOMvqccUM/)
+* [Dec 2023](https://docs.google.com/presentation/d/1A8Sxm1L3_GcWZqaXepqT1Pj-1sULzUG7fRkCP5tTr24/)
 * [Sept 2023](https://docs.google.com/presentation/d/1BPSYzk9J33Xl08uekuDBlgJjhiJIMt5B_eBvZ9PetIo/)
