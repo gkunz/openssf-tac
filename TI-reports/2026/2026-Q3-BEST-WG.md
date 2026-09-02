@@ -136,14 +136,34 @@ Overview of guides:
 
 ### Status Update
 
-* [Scorecard Infra migration](https://github.com/ossf/scorecard-infra) is primary focus
-  * Coming soon: Chartering Scorecard Infra group, in partnership with AboutCode
-* Allstar community-hosted will shutdown at end of month. Recommending [self-hosted use](https://github.com/ossf/allstar#self-hosting-allstar)
-* [Scorecard MCP server](https://github.com/uwu-tools/scorecard-mcp) also coming soon. Feedback welcome!
+[Scorecard infrastructure migration](https://github.com/ossf/scorecard-infra) from GCP to AWS —
+in partnership with [AboutCode Foundation](https://aboutcode.org) — initial cutover on 2026-08-31.
+
+[Funding was winding down](https://github.com/ossf/tac/issues/552); rather than interrupt a service
+the ecosystem depends on, the Steering Committee secured a durable, community-run home for it.
+
+See the announcement in [scorecard#5208](https://github.com/ossf/scorecard/issues/5208) and the
+tracking issue at [scorecard-infra#77](https://github.com/ossf/scorecard-infra/issues/77).
+
+Breaking changes users should be aware of:
+
+* BigQuery public dataset discontinued
+* Container images moved from `gcr.io/openssf/scorecard` to `ghcr.io/ossf/scorecard`
+* Scorecard Action users must upgrade to [v2.4.4+](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4)
+* Allstar's hosted GitHub App was retired as part of the same cutover — it remains under active
+  development — it just requires self-hosting moving forward: https://github.com/ossf/allstar/issues/881
+
+Community response has been strong:
+Renovate shipped an [auto-migration PR](https://github.com/renovatebot/renovate/pull/45597) for
+users still on the old registry, and reported breakages e.g., `urllib3` were resolved within hours.
 
 ### Up Next
 
-* Following infra move, pivot attention to backlog triage and v6 / OSPS Baseline work
+* Chartering a dedicated Scorecard Infrastructure group to build sustainable infra for the project
+* Issue backlog pruning
+* Scorecard v6 / OSPS Baseline work
+* [Scorecard MCP server](https://github.com/uwu-tools/scorecard-mcp) is available for early testing.
+  Feedback welcome!
 
 ## Web Developer Security Guide
 
