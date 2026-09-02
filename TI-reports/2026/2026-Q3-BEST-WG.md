@@ -88,7 +88,6 @@ Overview of guides:
 
 * Continued maintenance of both guides (compiler options and compiler annotations)
 * Adding example code for C and C++ compiler annotations
-* Conversation about including a guide
 
 ### Up next
 
@@ -151,10 +150,11 @@ Breaking changes users should be aware of:
 * Container images moved from `gcr.io/openssf/scorecard` to `ghcr.io/ossf/scorecard`
 * Scorecard Action users must upgrade to [v2.4.4+](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4)
 * Allstar's hosted GitHub App was retired as part of the same cutover — it remains under active
-  development — it just requires self-hosting moving forward: https://github.com/ossf/allstar/issues/881
+  development — it just requires [self-hosting](https://github.com/ossf/allstar/issues/881) moving forward
 
 Community response has been strong:
-Renovate shipped an [auto-migration PR](https://github.com/renovatebot/renovate/pull/45597) for
+
+* Renovate shipped an [auto-migration PR](https://github.com/renovatebot/renovate/pull/45597) for
 users still on the old registry, and reported breakages e.g., `urllib3` were resolved within hours.
 
 ### Up Next
